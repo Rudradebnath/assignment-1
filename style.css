@@ -1,0 +1,30 @@
+body{
+    font-family: 'Lobster', cursive;
+    margin: 0%;
+}
+span{
+    color: burlywood;
+}
+section{
+    display: flex;
+
+}
+.half-width{
+    width: 50%;
+    padding: 10%;
+}
+img{
+    width: 80%;
+}
+.food{
+text-decoration: none;
+background-image: linear-gradient(orange, red);
+padding: 10px 10px;
+color: cornsilk;
+font-weight: 900;
+border-radius: 5%;
+}
+.first-back{
+background-image: url(7.png);
+background-repeat: no-repeat;
+}
